@@ -1,0 +1,15 @@
+Frontend
+[x] Should have MUI card displaying fack users
+[x] front card shoudl have (profile pic, name, DOB, and gender)
+[x] Should have modal showing more info when clicked on the card or the more info button , like (addreess, age, and the rest info from the api
+
+[x] should have 125 users cards
+[x] should be organized in rows and columns for all cards
+[x] the desigg should have responsive design
+
+[x] need to install react query
+
+Data Fetching
+[x] set up endpoint to get info
+[x] should have the api pass down 125 data elemeents of fake users (basing get fetch for https)
+[x] fetch should have error handling
