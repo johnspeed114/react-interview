@@ -27,6 +27,8 @@ Create a react app that consumes data from https://randomuser.me. The app should
 - Create a github Repo and share it with us.
 - Include this README with the project.
 
+# My Write Up
+
 ## How I Designed the App and My Thought Process
 
 - Initial Planning: Before diving into the code, I took a moment to understand the requirements. The primary goal was to fetch and display user data in a user-friendly and responsive manner. I visualized the UI/UX design with the user flow in my mind, then wrote out a todo list.
