@@ -45,4 +45,6 @@ Create a react app that consumes data from https://randomuser.me. The app should
 
 - Using React Query: I've consistently heard positive feedback about React Query, particularly its capabilities in asynchronous data fetching, robust error handling, and an enhanced developer experience. Whenever I embark on a new project, I'm always keen to integrate and explore new technologies. The fact that React Query has built-in TypeScript support further increased my interest.
 
-- My decision to use TypeScript was two reasons. Firstly, it had been some time since I last used it, and I wanted to refresh my skills. More importantly, TypeScript offers a structured way to define and manage props and data structures, ensuring clarity and predictability in the codebase.
+- Using Typescript: My decision to use TypeScript was two reasons. Firstly, it had been some time since I last used it, and I wanted to refresh my skills. More importantly, TypeScript offers a structured way to define and manage props and data structures, ensuring clarity and predictability in the codebase.
+
+- Using Vite: It's fast and easy.
